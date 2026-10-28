@@ -1,0 +1,11 @@
+{
+  "name": "hello",
+  "version": "0.1.0",
+  "description": "最小 maio 插件：清单、脚本入口与 Web 面板占位。",
+  "author": "ShieldDog-ACE",
+  "homepage": "https://github.com/ShieldDog-ACE/maio-plugin-hello",
+  "main": "main.sh",
+  "web": {
+    "panel": "panel.html"
+  }
+}
